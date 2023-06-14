@@ -17,7 +17,7 @@ Olá, meu nome é Thiago da Conceição, sou uma pessoa que gosta de matemática
 | Nome  | Equação |
 | ------------- | ------------- |
 |Identidade de Euler | $e^{i\pi}+1=0$  |
-| Numero Complexo | $i = \sqrt{-1}$, $i^2 = -1$ |
+| Numero Complexo | $i = \sqrt{-1}$ </br> $i^2 = -1$ |
 | Equivalência de energia-massa de Einstein | $E = mc^2$ |
 | Teorema de Pitágoras | $a^2+b^2=c^2$ |
 | Fórmula quadrática | $x= \frac{-b \pm \sqrt{b^2-4ac}}{2a}$ |
