@@ -5,7 +5,7 @@ Hello, my name is Thiago da Conceição, I am a person who likes mathematics and
 | Name  | Equation |
 | ------------- | ------------- |
 | Euler's identity | $e^{i\pi}+1=0$  |
-| Complex Number | $i = \sqrt{-1}$, $i^2 = -1$ |
+| Complex Number | $i = \sqrt{-1}$ </br> $i^2 = -1$ |
 | Einstein's energy-mass equivalence | $E = mc^2$ |
 | Pythagorean Theorem | $a^2+b^2=c^2$ |
 | Quadratic Formula | $x= \frac{-b \pm \sqrt{b^2-4ac}}{2a}$ |
