@@ -5,6 +5,7 @@ Hello, my name is Thiago da Conceição, I am a person who likes mathematics and
 | Name  | Equation |
 | ------------- | ------------- |
 | Euler's identity | $e^{i\pi}+1=0$  |
+| Euler characteristic | $\chi = V - E + F$ |
 | Complex Number | $i = \sqrt{-1}$ </br> $i^2 = -1$ |
 | Einstein's energy-mass equivalence | $E = mc^2$ |
 | Pythagorean Theorem | $a^2+b^2=c^2$ |
@@ -17,10 +18,11 @@ Olá, meu nome é Thiago da Conceição, sou uma pessoa que gosta de matemática
 | Nome  | Equação |
 | ------------- | ------------- |
 |Identidade de Euler | $e^{i\pi}+1=0$  |
+| Característica de Euler | $\chi = V - E + F$ |
 | Numero Complexo | $i = \sqrt{-1}$ </br> $i^2 = -1$ |
 | Equivalência de energia-massa de Einstein | $E = mc^2$ |
 | Teorema de Pitágoras | $a^2+b^2=c^2$ |
-| Fórmula quadrática | $x= \frac{-b \pm \sqrt{b^2-4ac}}{2a}$ |
+| Fórmula Quadrática | $x= \frac{-b \pm \sqrt{b^2-4ac}}{2a}$ |
 
 ## Redes Sociais / Social Networks
 [Linkedin](https://www.linkedin.com/in/thiago-da-conceic%C3%A3o-b1204a202/)<br>
