@@ -24,10 +24,6 @@ Olá, meu nome é Thiago da Conceição, sou uma pessoa que gosta de matemática
 | Teorema de Pitágoras | $a^2+b^2=c^2$ |
 | Fórmula Quadrática | $x= \frac{-b \pm \sqrt{b^2-4ac}}{2a}$ |
 
-### Algumas
-
-![Haskell](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg)
-
 ## Redes Sociais / Social Networks
 [Linkedin](https://www.linkedin.com/in/thiago-da-conceic%C3%A3o-b1204a202/)<br>
 [Youtube](https://www.youtube.com/channel/UCFzV-4dbI96wU8spsqCTsGQ)
