@@ -26,7 +26,7 @@ Olá, meu nome é Thiago da Conceição, sou uma pessoa que gosta de matemática
 
 ### Algumas
 
-![Haskell](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=haskell&labelColor=0D1117)
+![Haskell](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg)
 
 ## Redes Sociais / Social Networks
 [Linkedin](https://www.linkedin.com/in/thiago-da-conceic%C3%A3o-b1204a202/)<br>
