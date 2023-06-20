@@ -12,6 +12,24 @@ Besides $\LaTeX$ and the Manim framework, I am exploring other programming langu
 | Pythagorean Theorem | $a^2+b^2=c^2$ |
 | Quadratic Formula | $x= \frac{-b \pm \sqrt{b^2-4ac}}{2a}$ |
 
+## The programming languages I am familiar with
+<div style="background-color: #E1D9D1; display: inline-block; padding: 5px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"  width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+</div>   
+
+## The programming languages I am currently studying
+<div style="background-color: #E1D9D1; display: inline-block; padding: 5px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50" height="50"/>
+          
+
+</div>
+
 # Português
 Olá, meu nome é Thiago da Conceição, sou uma pessoa que gosta de matemática e programação, programo em $\LaTeX$ e faço algumas animações matemáticas no framework Manim, tenho um canal no youtube e estou começando a lançar algumas animações amadoras,
 Além do $\LaTeX$ e do framework Manim, estou explorando outras linguagens de programação em meus projetos. Estou buscando expandir meu conhecimento e habilidades em diferentes ambientes de desenvolvimento.
@@ -37,7 +55,7 @@ Além do $\LaTeX$ e do framework Manim, estou explorando outras linguagens de pr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 </div>   
 
-## As linguagens de programação que estou atualmente estudando.
+## As linguagens de programação que estou atualmente estudando
 <div style="background-color: #E1D9D1; display: inline-block; padding: 5px;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50" height="50"/>
