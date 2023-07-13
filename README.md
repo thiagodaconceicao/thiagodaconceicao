@@ -13,19 +13,18 @@ Besides $\LaTeX$ and the Manim framework, I am exploring other programming langu
 | Quadratic Formula | $x= \frac{-b \pm \sqrt{b^2-4ac}}{2a}$ |
 
 ## The programming languages I am familiar with
-<div style="background-color: #E1D9D1; display: inline-block; padding: 5px;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+<div>
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/5ba216f2-274e-4faa-957b-cd6d23100300" width="50" height="50"/>
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/92ebd22b-2c3b-4c1c-9733-27126ec12984" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"  width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-</div>   
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/840622c1-a84c-47e5-b3b9-d8c3c816b974" width="50" height="50"/>
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/ccaeec52-6f82-45a6-8096-dcb6949f3d2d" width="50" height="50"/>
+</div>    
 
 ## The programming languages I am currently studying
-<div style="background-color: #E1D9D1; display: inline-block; padding: 5px;">
+<div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50" height="50"/>
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/1a3e89d5-9137-4a35-af91-e987c1caf7af" width="50" height="50"/>
           
 
 </div>
@@ -46,21 +45,19 @@ Além do $\LaTeX$ e do framework Manim, estou explorando outras linguagens de pr
 
 
 ## As linguagens de programação com as quais estou familiarizado
-<div style="background-color: #E1D9D1; display: inline-block; padding: 5px;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+<div>
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/5ba216f2-274e-4faa-957b-cd6d23100300" width="50" height="50"/>
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/92ebd22b-2c3b-4c1c-9733-27126ec12984" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"  width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/840622c1-a84c-47e5-b3b9-d8c3c816b974" width="50" height="50"/>
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/ccaeec52-6f82-45a6-8096-dcb6949f3d2d" width="50" height="50"/>
 </div>   
 
 ## As linguagens de programação que estou atualmente estudando
-<div style="background-color: #E1D9D1; display: inline-block; padding: 5px;">
+<div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="50" height="50"/>
-          
-
+<img src="https://github.com/thiagodaconceicao/thiagodaconceicao/assets/76844424/1a3e89d5-9137-4a35-af91-e987c1caf7af" width="50" height="50"/>
+     
 </div> 
 
 ## Redes Sociais / Social Networks
