@@ -14,3 +14,6 @@ Meu nome é Thiago da Conceição
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-da-conceic%C3%A3o-b1204a202)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thiagogoisconceicao@gmail.com)
+
+
+$e^{i\pi}+1=0$
