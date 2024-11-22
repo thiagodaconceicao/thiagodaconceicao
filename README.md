@@ -1,18 +1,8 @@
-
-## 🚀 Sobre mim
+## Sobre mim
 Meu nome é Thiago da Conceição
 
+**Esse é o meu perfil Profissional, para empresas e respositórios privados.**
 
-## 🛠 Skills
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![sus](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![olá corno](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![me descobriu](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-## 🔗 Links
+**Esse é o meu [perfil pessoal](https://codeberg.org/thiagodaconceicao), tanto para projetos pessoais quanto para contribuir com o mundo Open Source e FLOSS**
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thiagogoisconceicao@gmail.com)
-
-
-$e^{i\pi}+1=0$
+> Obs: esse respositório é um mirror(espelho).
